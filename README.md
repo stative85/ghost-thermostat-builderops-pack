@@ -29,8 +29,9 @@ This repository is intentionally documentation-first. It is built to support:
 
 1. Read `docs/operations/runbook.md`.
 2. Review `docs/standards/document-style-guide.md`.
-3. Open an issue using one of the templates in `.github/ISSUE_TEMPLATE/`.
-4. Submit changes through pull requests using the PR template.
+3. Review `docs/strategy/unique-design-claim-and-validation-plan.md`.
+4. Open an issue using one of the templates in `.github/ISSUE_TEMPLATE/`.
+5. Submit changes through pull requests using the PR template.
 
 ## Working Model
 
