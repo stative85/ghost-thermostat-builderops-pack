@@ -21,6 +21,9 @@ This repository is intentionally documentation-first. It is built to support:
 
 - `docs/` - Core operational documentation and playbooks
   - `docs/strategy/` - Positioning, design claim, and validation artifacts
+  - `docs/pilot/` - Pilot execution forms, metrics, and status templates
+  - `docs/testing/` - Failure mode matrix and validation references
+  - `docs/install/` - Commissioning and installation checklists
 - `.github/` - GitHub issue and pull request templates
 - `CHANGELOG.md` - Human-readable release history
 - `CONTRIBUTING.md` - Contribution workflow and quality bar

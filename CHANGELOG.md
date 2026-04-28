@@ -14,6 +14,9 @@ The format follows Keep a Changelog and this project uses semantic versioning.
 - Strategy document for unique design claim and validation scenarios.
 - Client-facing positioning one-pager for stakeholder communication.
 - Validation run log template for repeatable evidence capture.
+- Pilot readiness package with intake form, success metrics, and weekly status template.
+- Failure mode test matrix covering critical reliability scenarios.
+- Commissioning checklist for standardized install verification.
 
 ## [0.1.0] - 2026-04-28
 
