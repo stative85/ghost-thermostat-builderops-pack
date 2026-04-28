@@ -12,6 +12,8 @@ The format follows Keep a Changelog and this project uses semantic versioning.
 - Standard contribution, security, and review workflows.
 - Initial operational documentation framework under `docs/`.
 - Strategy document for unique design claim and validation scenarios.
+- Client-facing positioning one-pager for stakeholder communication.
+- Validation run log template for repeatable evidence capture.
 
 ## [0.1.0] - 2026-04-28
 

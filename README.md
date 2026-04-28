@@ -20,6 +20,7 @@ This repository is intentionally documentation-first. It is built to support:
 ## Repository Structure
 
 - `docs/` - Core operational documentation and playbooks
+  - `docs/strategy/` - Positioning, design claim, and validation artifacts
 - `.github/` - GitHub issue and pull request templates
 - `CHANGELOG.md` - Human-readable release history
 - `CONTRIBUTING.md` - Contribution workflow and quality bar
